@@ -1,11 +1,18 @@
-## Hi there 👋
+Stephany Diaz Tejeda- Intro to AI 
 
+ My name is Stephany Diaz Tejeda. I am currently a sophomore and a Catholic student. My major is Marketing. I am taking Intro to AI to expand my knowledge and understand AI coding. 
+ 
+Projects 
+
+ Project, Part 2: JavaScript Game coming soon 
+Visit my GITHUB: https://github.com/stephanydiaz7302006-create/stephanydiaz7302006-create/tree/main
 <!--
 **stephanydiaz7302006-create/stephanydiaz7302006-create** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
+  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
