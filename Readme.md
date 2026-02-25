@@ -1,0 +1,3 @@
+The website purpose is to explain who I am in part 1 and in part 2 I will be creating a JavaScript Game. 
+
+The AI usage note helped me organize my information and understand the documents. This helps me understand the information better without getting confused. 
