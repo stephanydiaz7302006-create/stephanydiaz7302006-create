@@ -1,3 +1,8 @@
-The website purpose is to explain who I am in part 1 and in part 2 I will be creating a JavaScript Game. 
+Stephany Diaz Tejeda- Intro to AI 
 
-The AI usage note helped me organize my information and understand the documents. This helps me understand the information better without getting confused. 
+ My name is Stephany Diaz Tejeda. I am currently a sophomore and a Catholic student. My major is Marketing. I am taking Intro to AI to expand my knowledge and understand AI coding. 
+ 
+Projects 
+
+ Project, Part 2: JavaScript Game coming soon
+Visit my GITHUB: https://github.com/stephanydiaz7302006-create/stephanydiaz7302006-create/tree/main
