@@ -1,8 +1,9 @@
-Stephany Diaz Tejeda- Intro to AI 
+# AI 109 Project 2
 
- My name is Stephany Diaz Tejeda. I am currently a sophomore and a Catholic student. My major is Marketing. I am taking Intro to AI to expand my knowledge and understand AI coding. 
- 
-Projects 
+This website includes:
+- A styled homepage
+- A second interactive page
+- A chatbot feature
 
- Project, Part 2: JavaScript Game coming soon
-Visit my GITHUB: https://github.com/stephanydiaz7302006-create/stephanydiaz7302006-create/tree/main
+Live website:
+https://stephanydiaz7302006-create.github.io/stephanydiaz7302006-create/
