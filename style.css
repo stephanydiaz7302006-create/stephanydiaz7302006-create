@@ -4,7 +4,7 @@ body {
 }
 
 h1 {
-  color: darkblue;
+  color: blue;
 }
 
 p {
@@ -12,7 +12,7 @@ p {
 }
 
 nav {
-  background-color: black;
+  background-color: Grey;
   padding: 10px;
 }
 
