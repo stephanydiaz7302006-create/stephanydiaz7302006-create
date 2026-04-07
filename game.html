@@ -1,4 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Interactive Page</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
 <nav>
     <a href="index.html">Home</a>
     <a href="game.html">Interactive</a>
 </nav>
+
+<h1>Chatbot</h1>
+
+<input type="text" id="userInput" placeholder="Type something...">
+<button onclick="reply()">Send</button>
+
+<p id="response"></p>
+
+<script>
+function reply() {
+    let input = document.getElementById("userInput").value.toLowerCase();
+    let output = "";
+
+    if (input.includes("sad")) {
+        output = "Why do you feel sad?";
+    } else if (input.includes("happy")) {
+        output = "That's great to hear!";
+    } else if (input.includes("hello")) {
+        output = "Hi there! How are you feeling today?";
+    } else {
+        output = "Tell me more...";
+    }
+
+    document.getElementById("response").innerText = output;
+}
+</script>
+
+</body>
+</html>
