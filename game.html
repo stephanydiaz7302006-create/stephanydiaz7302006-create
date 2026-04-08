@@ -1,42 +1,27 @@
 <!DOCTYPE html>
 <html>
+
 <head>
-    <title>Interactive Page</title>
+    <title>My Game</title>
     <link rel="stylesheet" href="style.css">
 </head>
 
 <body>
 
-<nav>
-    <a href="index.html">Home</a>
-    <a href="game.html">Interactive</a>
-</nav>
+    <h1>Click Game 🎮</h1>
+    <p>Score: <span id="score">0</span></p>
 
-<h1>Chatbot</h1>
+    <button onclick="increaseScore()">Click Me!</button>
 
-<input type="text" id="userInput" placeholder="Type something...">
-<button onclick="reply()">Send</button>
+    <br><br>
 
-<p id="response"></p>
+    <!-- BACK BUTTON -->
+    <a href="index.html">
+        <button>Back to Home</button>
+    </a>
 
-<script>
-function reply() {
-    let input = document.getElementById("userInput").value.toLowerCase();
-    let output = "";
-
-    if (input.includes("sad")) {
-        output = "Why do you feel sad?";
-    } else if (input.includes("happy")) {
-        output = "That's great to hear!";
-    } else if (input.includes("hello")) {
-        output = "Hi there! How are you feeling today?";
-    } else {
-        output = "Tell me more...";
-    }
-
-    document.getElementById("response").innerText = output;
-}
-</script>
+    <script src="script.js"></script>
 
 </body>
+
 </html>
