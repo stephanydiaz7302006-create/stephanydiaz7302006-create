@@ -1,48 +1,81 @@
 <!DOCTYPE html>
-<html>
-
+<html lang="en">
 <head>
-    <title>My Game</title>
-    <link rel="stylesheet" href="style.css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Stephany's Mini Go Game</title>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&family=Roboto&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<style>
+/* Mini Go Board Styles */
+.go-board {
+    display: grid;
+    grid-template-columns: repeat(5, 60px);
+    grid-template-rows: repeat(5, 60px);
+    gap: 5px;
+    justify-content: center;
+    margin: 20px auto;
+}
+.cell {
+    width: 60px;
+    height: 60px;
+    background-color: #f5f5dc;
+    border: 1px solid #333;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    transition: transform 0.2s;
+}
+.cell:hover {
+    transform: scale(1.1);
+}
+</style>
 </head>
-
 <body>
+<header>
+    <h1>Stephany's Mini Go Game</h1>
+    <p>Click a square to place your stone. Black goes first!</p>
+</header>
 
-    <h1>Click Game 🎮</h1>
-    <p>Score: <span id="score">0</span></p>
+<main class="main">
+    <section class="card game-container">
+        <div class="go-board" id="board"></div>
+    </section>
 
-    <button onclick="increaseScore()">Click Me!</button>
+    <a href="index.html"><button class="btn">Back to Home</button></a>
+</main>
 
-    <br><br>
+<footer>
+    <p>© 2026 Stephany Diaz Tejeda</p>
+</footer>
 
-    <!-- BACK BUTTON -->
-    <a href="index.html">
-        <button>Back to Home</button>
-    </a>
+<script>
+const boardSize = 5;
+const boardElement = document.getElementById('board');
+let currentPlayer = '●';
+let boardState = Array(boardSize).fill(null).map(() => Array(boardSize).fill(''));
 
-    <script src="script.js"></script>
+// Create the grid
+for (let r = 0; r < boardSize; r++) {
+    for (let c = 0; c < boardSize; c++) {
+        const cell = document.createElement('div');
+        cell.className = 'cell';
+        cell.dataset.row = r;
+        cell.dataset.col = c;
+        cell.addEventListener('click', () => makeMove(r, c, cell));
+        boardElement.appendChild(cell);
+    }
+}
 
+function makeMove(r, c, cell) {
+    if (boardState[r][c] !== '') return;
+    boardState[r][c] = currentPlayer;
+    cell.textContent = currentPlayer;
+    currentPlayer = currentPlayer === '●' ? '○' : '●';
+}
+</script>
 </body>
-
 </html>
-<body>
-
-    <div class="container">
-
-        <h1>Click Game 🎮</h1>
-
-        <p>Score: <span id="score">0</span></p>
-
-        <button onclick="increaseScore()">Click Me!</button>
-
-        <br><br>
-
-        <a href="index.html">
-            <button>Back to Home</button>
-        </a>
-
-    </div>
-
-    <script src="script.js"></script>
-
-</body>
