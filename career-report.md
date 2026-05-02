@@ -20,4 +20,4 @@ Action plan:
 
 Sources and AI use:
 
-https://beautymatter.com/articles/how-agentic-ai-is-reshaping-beauty-discovery https://futureofskincare.substack.com/p/the-treatment-room-wont-be-automated These resoucres helped me inform myself about how AI is taking over the world. I believe this is important to know since it can impact people careers. Overall, AI soon will be taking over the world. 
+https://beautymatter.com/articles/how-agentic-ai-is-reshaping-beauty-discovery https://futureofskincare.substack.com/p/the-treatment-room-wont-be-automated These resoucres helped me inform myself about how AI is taking over the world. I believe this is important to know since it can impact people careers. Overall, AI soon will be taking over the world.
