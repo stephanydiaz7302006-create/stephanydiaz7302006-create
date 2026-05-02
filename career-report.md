@@ -13,7 +13,7 @@ Gaining an advantage:
 Entering skincare marketing can gain knowledge on how to use AI tools. For example like content creation, social media management, and data analysis. This should be able to use AI to create marketing campaigns faster, test different ad styles, and understand which strategies perform best. They can also learn prompt writing to get better outputs from AI tools and use AI analytics tools to make smarter marketing decisions. Being able to combine creativity with AI skills will make someone more valuable than others who only rely on different ways. 
 
 Action plan:
- - Learn how to use AI marketing tools (such as ChatGPT, Canva AI, or similar platforms) to create content and ads.  
+ - Learn how to use AI marketing for example ChatGPT, Canva AI, or similar platforms to create content and ads.  
 -  Practice analyzing skincare trends on social media platforms like TikTok and Instagram using AI tools or insights.  
 - Take an online course in digital marketing or social media marketing to feel conformable about the knowledge.  
 -  Create a small mock skincare brand and use AI to design a full marketing campaign for practice.
