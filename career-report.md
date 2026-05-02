@@ -10,7 +10,7 @@ AI benefits:
 AI can help skincare marketers work more efficiently and make better choices. This can analyze large amounts of customer data to identify trends, improve targeting for ads, and marketing messages for different audiences. AI can also help create ideas,improve communication with customers through chatbots, automated responses, and much more. This should help marketers to focus on strategy and creativity rather than multiple tasks.
 
 Gaining an advantage:
-Entering skincare marketing can gain knowledge on how to use AI tools. For example like content creation, social media management, and data analysis. This should be able to use AI to create marketing campaigns faster, test different ad styles, and understand which strategies perform best. They can also learn prompt writing to get better outputs from AI tools and use AI analytics tools to make smarter marketing decisions. Being able to combine creativity with AI skills will make someone more valuable than others who only rely on traditional methods.
+Entering skincare marketing can gain knowledge on how to use AI tools. For example like content creation, social media management, and data analysis. This should be able to use AI to create marketing campaigns faster, test different ad styles, and understand which strategies perform best. They can also learn prompt writing to get better outputs from AI tools and use AI analytics tools to make smarter marketing decisions. Being able to combine creativity with AI skills will make someone more valuable than others who only rely on different ways. 
 
 Action plan:
  - Learn how to use AI marketing tools (such as ChatGPT, Canva AI, or similar platforms) to create content and ads.  
@@ -20,4 +20,4 @@ Action plan:
 
 Sources and AI use:
 
-General knowledge of marketing and AI applications in business was applied. AI tools were used to help organize ideas, structure the assignment, and generate written content based on the assignment requirements. The responses were reviewed and adjusted to match the career of skincare marketing and the instructions provided.
+https://beautymatter.com/articles/how-agentic-ai-is-reshaping-beauty-discovery https://futureofskincare.substack.com/p/the-treatment-room-wont-be-automated These resoucres helped me inform myself about how AI is taking over the world. I believe this is important to know since it can impact people careers. Overall, AI soon will be taking over the world. 
